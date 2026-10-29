@@ -18,6 +18,7 @@
 
 ### 💻 ข้อมูลการอัปโหลดโค้ด
 - โปรแกรมที่ใช้: Arduino IDE (เลือกบอร์ดเป็น *ESP32 Dev Module*)
+- ดูตัวอย่างการต่อวงจรที่รูป Ex. Diagram.png ได้เลยครับ
 
 ---
 
@@ -36,7 +37,7 @@
 ---
 
 ![Image1](images/image1.png)
-
+---
 ![Image2](images/image2.png)
 
 ---
